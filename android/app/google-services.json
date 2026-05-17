@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341559074881",
+    "project_id": "smart-budget-app-hajer",
+    "storage_bucket": "smart-budget-app-hajer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341559074881:android:b7d3fa98898e4eb07c66c0",
+        "android_client_info": {
+          "package_name": "com.example.smart_budget_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg11tZQ__NtcrWT3ON7NAhB2UWOv5yjQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
